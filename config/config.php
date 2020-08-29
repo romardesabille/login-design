@@ -5,13 +5,13 @@
     | http://google.com
     |--------------------------------------------------------------------------
     */
-    $config['base_url'] = 'http://localhost:8080/BloodBank_/';
+    $config['base_url'] = 'https://login-design.herokuapp.com/';
     /*
     |--------------------------------------------------------------------------
     | set empty when not using a root folder in url
     |--------------------------------------------------------------------------
     */
-    $config['root_folder'] = 'BloodBank_/';
+    $config['root_folder'] = '';
     /*
     |--------------------------------------------------------------------------
     | Auto load class in controllers and model
